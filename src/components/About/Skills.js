@@ -1,4 +1,5 @@
 const SkillList = [
+  "python",
   "next.js",
   "tailwind css",
   "figma",
@@ -7,11 +8,9 @@ const SkillList = [
   "Gatsby.js",
   "strapi",
   "firebase",
-  "generative AI",
-  "wireframing",
-  "SEO",
-  "framer motion",
-  "sanity",
+  "typescript",
+  "java",
+  "ci-cd",
 ];
 
 const Skills = () => {
